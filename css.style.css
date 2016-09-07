@@ -1,0 +1,79 @@
+body
+{
+margin:0;
+  font-size:30px;
+color: #3333;
+  text-align:center;
+height: 50px;
+}
+nav
+{
+
+  height: 80px;
+  text-align:center;
+  background-color: green;
+}
+nav a
+{
+  display:inline-block;
+background-color: red;
+  font-size:25px;
+  color: black;
+   width:30%
+}
+.container
+{
+  text-align:center;
+  background-color: yellow;
+  height: 100px;
+  font-size: 50px;
+}
+/* section
+{
+  height: 500px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #eeeeee;
+  margin: 100px 5px;
+} */
+a{
+  color: #fff;
+}
+.touxiang
+{
+  height: 100px;
+  border-radius: 50%;
+}
+.content
+{
+  margin-top: 100px;
+}
+.jiaxiang
+{
+  width: 200px;
+
+}
+.jineng
+{
+  height: 250px;
+  background-color: blue;
+
+}
+.xuexiaozuanye
+{
+  font-size: 50px;
+  background-color: red;
+  width: 100%;
+  margin-right:150px;
+  text-align: center;
+}
+.jianli
+{
+  font-size: 50px;
+  background-color: yellow;
+  
+}
+.xuexiaozuanye school2
+{
+  margin-right:150px;
+}
